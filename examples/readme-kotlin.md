@@ -2,7 +2,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/android-512.png" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>EcoStep</h1>
 <p align="left">
-	<em>Empowering Android, Elevating Experiences.</em>
+	<em>Salvando el Planeta desde 2025.</em>
 </p>
 <p align="left">
 	<img src="https://img.shields.io/github/license/rumaan/file.io-Android-Client?style=flat&logo=opensourceinitiative&logoColor=white&color=orange" alt="license">
