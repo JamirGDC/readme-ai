@@ -1,6 +1,6 @@
 <div align="left" style="position: relative;">
 <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/android-512.png" align="right" width="30%" style="margin: -20px 0 0 20px;">
-<h1>FILE.IO-ANDROID-CLIENT</h1>
+<h1>EcoStep</h1>
 <p align="left">
 	<em>Empowering Android, Elevating Experiences.</em>
 </p>
@@ -23,20 +23,20 @@
 </div>
 <br clear="right">
 
-## 🔗 Table of Contents
+## 🔗 Tabla de Contenidos
 
-I. [📍 Overview](#-overview)
-II. [👾 Features](#-features)
-III. [📁 Project Structure](#-project-structure)
+I. [📍 Descripción General](#-Descripción)
+II. [👾 Características](#-features)
+III. [📁 Estructura del Proyecto](#-project-structure)
 IV. [🚀 Getting Started](#-getting-started)
 V. [📌 Project Roadmap](#-project-roadmap)
-VI. [🔰 Contributing](#-contributing)
-VII. [🎗 License](#-license)
-VIII. [🙌 Acknowledgments](#-acknowledgments)
+VI. [🔰 Contribuir](#-contributing)
+VII. [🎗 Licencia](#-license)
+VIII. [🙌 Agradecimientos](#-acknowledgments)
 
 ---
 
-## 📍 Overview
+## 📍 Descripción
 
 The file.io-Android-Client project offers a seamless solution for secure file uploads on Android devices. Key features include easy file sharing, encrypted URLs, and notification alerts. This open-source project caters to developers seeking a reliable and privacy-focused file transfer solution for their mobile applications.
 
